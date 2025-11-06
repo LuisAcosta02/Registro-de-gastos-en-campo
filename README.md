@@ -1,2 +1,12 @@
-# Registro-de-gastos-en-campo
-La aplicación de registro de gastos fue desarrollada en AppSheet, con el propósito optimizar y digitalizar el proceso de comprobación de gastos de los socios y colaboradores que realizan actividades de campo. Permitiendo registrar de manera ordenada los viáticos otorgados y su correspondiente comprobación mediante evidencias.
+# 📱 Registro de Gastos (AppSheet)
+
+Aplicación desarrollada en **Google AppSheet** para el registro y comprobación de gastos de campo.  
+Permite capturar facturas, calcular montos netos e integrar datos con **Google Sheets**, **Apps Script** y **Google Drive**.
+
+## 🧩 Características
+- Registro de gastos con validaciones automáticas
+- Carga de XML y PDF de facturas
+- Control de usuarios por correo corporativo
+- Automatizaciones con Apps Script
+
+## 📂 Estructura del repositorio
